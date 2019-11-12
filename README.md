@@ -250,3 +250,10 @@ Game of Thrones
 
 Small, multi-purpose dataset including a small graph of parents and children (`Characters --ChildOf--> Characters`).
 See [README](GameOfThrones/README.md) for details.
+
+
+Timezones
+===============
+
+A GeoJSON dataset for all timezones in the world.
+![AQL Query screenshot](Timezones/Timezones.png)
