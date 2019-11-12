@@ -265,4 +265,4 @@ Roads - North America
 
 A GeoJSON dataset for roads in the continent of North America.
 
-![Query screenshot]('Roads-North America'/Roads.png)
+![Query screenshot](Roads-North America/Roads.png)
