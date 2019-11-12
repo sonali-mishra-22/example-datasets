@@ -256,4 +256,5 @@ Timezones
 ===============
 
 A GeoJSON dataset for all timezones in the world.
+
 ![AQL Query screenshot](Timezones/Timezones.png)
